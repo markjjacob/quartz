@@ -1,3 +1,10 @@
+---
+title: "TED_talk_summaries"
+tags:
+- ProfComm
+weight: -3
+---
+
 > Choose one of the videos in [Task 1](https://liascript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IUZ-LiaScript/ProfComm/main/presentation_starts.md) and watch the whole presentation. Write an analysis of the presentation including the points below and upload it here as a pdf.
 
 - Give your text a title

@@ -1,4 +1,11 @@
 
+---
+title: "Assessment_criteria"
+tags:
+- ProfComm
+weight: 0
+---
+
 # Potential criteria for assessing professional presentations
 
 - Voice speak loudly and clearly so everyone can hear

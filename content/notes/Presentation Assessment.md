@@ -1,3 +1,10 @@
+---
+title: "Presentation_Assessment"
+tags:
+- ProfComm
+weight: -1
+---
+
 | Category      | Detail                | no | maybe | yes | Spkr 1 | Spkr 2 | Spkr 3 | Spkr 4 | Spkr 5 |
 | ------------- | --------------------- | -- | ----- | --- | ------ | --------- | --------- | --------- | --------- |
 | Miscellaneous | Starter               | 0  | 1     | 2   |           |           |           |           |           |
