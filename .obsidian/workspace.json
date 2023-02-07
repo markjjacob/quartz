@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/New_note.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/New_note.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/New_note.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/New_note.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -158,10 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ab8a4d5fe93d624",
+  "active": "fced4e09c67f4328",
   "lastOpenFiles": [
+    "content/templates/post.md",
+    "content/private/private-note.md",
+    "content/notes/New_note.md",
     "content/notes/new_file.md",
-    "content/notes/callouts.md",
-    "content/notes/New_note.md"
+    "content/notes/callouts.md"
   ]
 }
