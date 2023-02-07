@@ -1,7 +1,7 @@
 ---
 title: "new_file"
 tags:
-- setup
+- new
 weight: 0
 ---
 
