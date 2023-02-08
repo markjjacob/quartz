@@ -4,15 +4,23 @@ enableToc: false
 ---
 
 ## Welcome to the pages of Mark J. Jacob
-
-- For articles listed by category click [link to tags](/tags/)
-- For a full list of the articles click [link to notes](/notes/)
-- For my research background click [research](https://www.researchgate.net/profile/Mark-Jacob-3)
-
-### English at TUBAF
-
 ![tubaf](/notes/images/banner_silhouette_a.jpg)
 
-- Professional Communication
-- Scientific Language (Introduction to English for Specific Purposes)
-- Scientific Communication (UNIcert III)
+### Teaching
+
+#### Courses
+- [Professional Communication](/notes/Professional_Communication.md)
+- [Introduction to English for Specific Purposes](/notes/Scientific_Language.md)
+- [UNIcert III English](/note/Scientific_Communication.md)
+
+#### Projects
+- [Digital Fellows](/notes/Digital_Fellows.md)
+- [CrosLabs](/note/CrossLabs.md)
+- [WordValue](/notes/WordValue.md)
+
+### Research
+> For my research background click [research](https://www.researchgate.net/profile/Mark-Jacob-3)
+
+### Site Contents
+- For articles listed by category click [link to tags](/tags/)
+- For a full list of the articles click [link to notes](/notes/)
