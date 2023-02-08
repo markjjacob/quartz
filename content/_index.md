@@ -11,11 +11,11 @@ enableToc: false
 #### Courses
 - [Professional Communication](/notes/Professional_Communication.md)
 - [Introduction to English for Specific Purposes](/notes/Scientific_Language.md)
-- [UNIcert III English](/note/Scientific_Communication.md)
+- [UNIcert III English](/notes/Scientific_Communication.md)
 
 #### Projects
 - [Digital Fellows](/notes/Digital_Fellows.md)
-- [CrosLabs](/note/CrossLabs.md)
+- [CrossLabs](/notes/CrossLabs.md)
 - [WordValue](/notes/WordValue.md)
 
 ### Research
