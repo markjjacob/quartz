@@ -3,7 +3,7 @@ title: Welcome
 enableToc: false
 ---
 
-## Welcome to the pages of Mark J Jacob
+## Welcome to the pages of Mark J. Jacob
 
 - For articles listed by category click [link to tags](/tags/)
 - For a full list of the articles click [link to notes](/notes/)
