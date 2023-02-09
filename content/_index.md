@@ -3,7 +3,7 @@ title: MarkJJacob
 enableToc: false
 ---
 ## Welcome to the pages of Mark J. Jacob
-![tubaf](/notes/images/banner_silhouette_a.jpg)
+![tubaf](/notes/images/GetPersonaPhoto.jpeg)
 ### Teaching
 - [Professional Communication](/notes/Professional_Communication.md)
 - [Introduction to English for Specific Purposes](/notes/Scientific_Language.md)
