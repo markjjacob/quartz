@@ -23,7 +23,7 @@ description:
 page_title:
   "Language & Communication"
 links:
-  - link name: Discord
+  - link_name: Discord
     link: https://discord.gg/PGw5rZ4
   - link_name: GitHub
     link: https://github.com/markjjacob
