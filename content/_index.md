@@ -5,11 +5,10 @@ enableToc: false
 ## Welcome to the pages of Mark J. Jacob
 ![tubaf](/notes/images/banner_silhouette_a.jpg)
 ### Teaching
-#### Courses
 - [Professional Communication](/notes/Professional_Communication.md)
 - [Introduction to English for Specific Purposes](/notes/Scientific_Language.md)
 - [UNIcert III English](/notes/Scientific_Communication.md)
-#### Projects
+### Projects
 - [Digital Fellows](/notes/Digital_Fellows.md)
 - [CrossLabs](/notes/CrossLabs.md)
 - [WordValue](/notes/WordValue.md)
