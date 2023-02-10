@@ -7,9 +7,7 @@ enableToc: false
 ## Teaching
 - [Introduction to English for Specific Purposes](/notes/Scientific_Language.md)
 - [UNIcert III English](/notes/Scientific_Communication.md)
-- [Professional Communication](Professional_Communication.md)
-- [Professional Communication](Professional-Communication.md)
-- [Professional Communication](Professional Communication.md)
+- [Professional Communication](/notes/Professional_Communication.md)
 ## Projects
 - [Digital Fellows](/notes/Digital_Fellows.md)
 - [CrossLabs](/notes/CrossLabs.md)
