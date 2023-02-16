@@ -24,6 +24,21 @@ weight: 0
 - Employees of TUBAF
 ## Aims
 ## Structure
+- Basics
+	- Self-perception
+		- Elevator pitch
+		- CV/Resume
+	- Communication models
+- Communication in teams
+	- Roles and goals
+	- Problem solving
+		- A3 Management process
+- Negotiating
+	- Distributive vs integrative
+	- Negitiator types
+- Leading
+	- Leadership communication styles
+	- Giving and receiving feedback
 ## Assessment
 - [Application](/notes/Application.md)
 - [Presentation](/notes/Presentation.md)
