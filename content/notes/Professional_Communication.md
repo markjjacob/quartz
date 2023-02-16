@@ -8,7 +8,7 @@ weight: 0
 
 ## Brief Description
 ### Key information
-- Module convenor: [Dr. Mark J. Jacob](mark.jacob@iuz.tu-freiberg.de)
+- Module convenor: [Dr. Mark J. Jacob](mailto:mark.jacob@iuz.tu-freiberg.de)
 - Duration: one semester
 - Offerred in winter and summer semesters
 - Two sessions of 90 minutes per week in person
