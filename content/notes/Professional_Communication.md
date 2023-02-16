@@ -28,10 +28,10 @@ weight: 0
 ### Topics
 ### Tasks
 ## Assessment
-### [Application](/notes/Application.md)
-### [Presentation](/note/Presentation.md)
-### [Negotiation](/notes/Negotiation.md)
-### [Reflection](/notes/Reflection.md)
+- [Application](/notes/Application.md)
+- [Presentation](/notes/Presentation.md)
+- [Negotiation](/notes/Negotiation.md)
+- [Reflection](/notes/Reflection.md)
 ## Literature
 
 
