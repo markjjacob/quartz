@@ -24,23 +24,24 @@ weight: 0
 - Employees of TUBAF
 ## Aims
 ## Structure
-- Fundamentals
+- Fundamentals - Know thyself (and others)
 	- Self-perception
 		- Elevator pitch
+		- Johari window
 		- CV/Resume
 	- Communication models
 	- Rhetoric
 		- Ethos
 		- Pathos
 		- Logos
-- Teams
+- Negotiating - Get what you (and others) want
+	- Distributive vs integrative
+	- Negitiator types
+- Teams - Together we are stronger
 	- Roles and goals
 	- Problem solving
 		- A3 Management process
-- Negotiating
-	- Distributive vs integrative
-	- Negitiator types
-- Leading
+- Leading - A step up, a step back
 	- Leadership styles
 	- Giving and receiving feedback
 ## Assessment
