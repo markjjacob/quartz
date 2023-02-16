@@ -24,11 +24,15 @@ weight: 0
 - Employees of TUBAF
 ## Aims
 ## Structure
-- Basics
+- Fundamentals
 	- Self-perception
 		- Elevator pitch
 		- CV/Resume
 	- Communication models
+	- Rhetoric
+		- Ethos
+		- Pathos
+		- Logos
 - Teams
 	- Roles and goals
 	- Problem solving
