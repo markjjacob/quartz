@@ -6,14 +6,13 @@ tags:
 weight: 0
 ---
 
-## Brief Description
-### Key information
+## Key information
 - Module convenor: Dr. Mark J. Jacob
 - Duration: one semester
 - Offerred in winter and summer semesters
 - Two sessions of 90 minutes per week in person
 - 6 ECTS credit points 
-### Target groups
+## Target groups
 - Undergraduate students of
 	- Business Administration
 	- Business and Law
@@ -24,9 +23,7 @@ weight: 0
 - Other interested students
 - Employees of TUBAF
 ## Aims
-## Content
-### Topics
-### Tasks
+## Structure
 ## Assessment
 - [Application](/notes/Application.md)
 - [Presentation](/notes/Presentation.md)
