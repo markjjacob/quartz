@@ -29,7 +29,7 @@ weight: 0
 		- Elevator pitch
 		- CV/Resume
 	- Communication models
-- Communication in teams
+- Teams
 	- Roles and goals
 	- Problem solving
 		- A3 Management process
@@ -37,7 +37,7 @@ weight: 0
 	- Distributive vs integrative
 	- Negitiator types
 - Leading
-	- Leadership communication styles
+	- Leadership styles
 	- Giving and receiving feedback
 ## Assessment
 - [Application](/notes/Application.md)
