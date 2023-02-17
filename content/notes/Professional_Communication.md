@@ -24,6 +24,7 @@ weight: 0
 - Employees of TUBAF
 ## Aims
 ## Structure
+- Introduction - Why, why, why?
 - Fundamentals - Know thyself (and others)
 	- Self-perception
 		- Elevator pitch
@@ -38,12 +39,15 @@ weight: 0
 	- Distributive vs integrative
 	- Negitiator types
 - Teams - Together we are stronger
-	- Roles and goals
 	- Problem solving
 		- A3 Management process
+	- Remote teams
 - Leading - A step up, a step back
-	- Leadership styles
+	- Leading and being lead
 	- Giving and receiving feedback
+- Reflection
+	- Where have we been?
+	- Where are we going?
 ## Assessment
 - [Application](/notes/Application.md)
 - [Presentation](/notes/Presentation.md)
