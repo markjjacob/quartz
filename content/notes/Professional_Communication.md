@@ -49,10 +49,10 @@ weight: 0
 	- Where have we been?
 	- Where are we going?
 ## Assessment
-- [Application](/notes/Application.md)
-- [Presentation](/notes/Presentation.md)
-- [Negotiation](/notes/Negotiation.md)
-- [Reflection](/notes/Reflection.md)
+- [Application](Application.md)
+- [Presentation](Presentation.md)
+- [Negotiation](Negotiation.md)
+- [Reflection](Reflection.md)
 ## Literature
 
 
