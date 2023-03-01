@@ -1,5 +1,5 @@
 ---
-title: "Scientific_Communication"
+title: "Scientific_Language"
 tags:
 - SciComm
 - Courses

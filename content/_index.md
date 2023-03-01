@@ -5,8 +5,8 @@ enableToc: false
 # Welcome to the pages of Mark J. Jacob
 ![tubaf](/notes/images/GetPersonaPhoto.jpeg)
 ## Teaching
-- [Introduction to English for Specific Purposes](/notes/Scientific_Language.md)
-- [UNIcert III English](/notes/Scientific_Communication.md)
+- [Introduction to English for Specific Purposes](Scientific_Communication.md)
+- [UNIcert III English](Academic_Communication.md)
 - [Professional Communication](/notes/Professional_Communication.md)
 ## Projects
 - [Digital Fellows](/notes/Digital_Fellows.md)

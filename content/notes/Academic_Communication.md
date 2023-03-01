@@ -1,7 +1,7 @@
 ---
-title: "Scientific_Language"
+title: "Scientific_Communication"
 tags:
-- SciLang
+- AccComm
 - Courses
 weight: 0
 ---
